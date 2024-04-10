@@ -73,5 +73,3 @@ def advanced():
 @app.route('/creative')
 def creative():
     return render_template("creative.html")
-
-app.run(host="0.0.0.0", port=81)
