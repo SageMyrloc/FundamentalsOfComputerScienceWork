@@ -1,0 +1,201 @@
+﻿id,airline_sentiment,airline_sentiment_confidence,negative_reason,airline,name,text,tweet_created,tweet_location
+1,positive,1,,Virgin America,ryan_kravontka,@VirginAmerica just got on the 1pm in Newark home to LA. Your folks at EWR are incredible #letsgohome,2/17/2015 9:49,"Los Angeles, CA"
+2,neutral,1,,Virgin America,loungesong,@VirginAmerica Are there any sign up bonuses to enroll in Elevate?,2/17/2015 9:50,
+3,negative,0.3573,Late Flight,Virgin America,jonovoss,@VirginAmerica my flight (6000) scheduled for 1pm departure still says on time but no plane at gate. Any update on how long of a delay?,2/17/2015 10:02,"Washington, DC"
+4,positive,1,,Virgin America,Perceptions,@VirginAmerica really wish you'd fly out of #Fargo @fargoairport those fares are amazings,2/17/2015 10:33,"Fargo, ND ( & Tucson, AZ)"
+5,neutral,0.6667,,Virgin America,the22207,@VirginAmerica Can you give me Silver Status for 12 months?,2/17/2015 10:40,
+6,positive,1,,Virgin America,kellitweets,@VirginAmerica thanks! Y'all have some of the best customer service left in the industry.,2/17/2015 10:54,Texas
+7,neutral,1,,Virgin America,paulhting,@virginamerica Any way to change from Main Cabin to Main Cabin Select (on same flight) without paying a change fee penalty?,2/17/2015 11:27,"Charlottesville, VA"
+8,positive,0.678,,Virgin America,BrandonS002,".@VirginAmerica not only was it great, but you return my calls the day after. Couldn't ask for more. #myVXexperience",2/17/2015 12:49,New York City
+9,negative,1,Customer Service Issue,Virgin America,reekyrocks,@VirginAmerica started my flight with a scolding for using an overhead bin that was then offered to the person seated next to me.,2/17/2015 13:06,"Los Angeles, CA"
+10,neutral,0.6831,,Virgin America,judy_202,@VirginAmerica how come ABC is the only one of the network channels you don't have?,2/17/2015 13:24,"Washington, DC"
+11,positive,1,,Virgin America,HereticPharaoh,@VirginAmerica wifi AND better seating.,2/17/2015 14:03,"Jersey City, New Jersey "
+12,positive,1,,Virgin America,funky_bbq,@VirginAmerica Are there any plans for a short haul airline in Europe? Would defiantly fly with you guys :),2/17/2015 14:04,
+13,neutral,0.6731,,Virgin America,EnonThaPhenom,.@VirginAmerica I heard he has a virgin mobile hotspot ;),2/17/2015 14:06,"Oakland, Ca"
+14,neutral,0.6457,,Virgin America,ICEportal,@VirginAmerica Good point!,2/17/2015 14:07,"Hollywood, FL"
+15,positive,1,,Virgin America,tookthecollar,@VirginAmerica thanks so much for sharing. Just added it to my site http://t.co/TsviBTvT8h,2/17/2015 14:09,
+16,negative,1,Customer Service Issue,Virgin America,wtcgroup,@VirginAmerica Man of steel flies to more cities though...and with more frequency too.,2/17/2015 14:17,SF Bay Area/ Las Vegas
+17,positive,1,,Virgin America,mynejas,@VirginAmerica thanks for the free birthday points! y'all are ALL RIGHT with me!,2/17/2015 14:26,"Oakland, CA"
+18,positive,1,,Virgin America,mynejas,@VirginAmerica I love the dancing little richard. cool beans.,2/17/2015 14:36,"Oakland, CA"
+19,positive,0.6858,,Virgin America,myvortex,"@VirginAmerica another perfect flight.   How come on your planes,  the sun visors can stay down?  Other carriers make you raise them?",2/17/2015 15:31,could be anywhere
+20,neutral,0.3542,,Virgin America,JAYXXX1,@VirginAmerica YES FYI  MY BFF,2/17/2015 15:32,
+21,neutral,0.6198,,Virgin America,killawattannie,@VirginAmerica ...Please come to Minneapolis St. Paul!,2/17/2015 16:37,
+22,positive,0.6733,,Virgin America,TheAdamRizz,@VirginAmerica @JezzieGoldz would have been a rough trip but LUCKILY we were on a #virginamerica flight. #weather,2/17/2015 16:44,"Dallas, Texas"
+23,neutral,0.6533,,Delta,gloeb90,@JetBlue you guys get rid of the hip hop stations on Sirius XM?,2/20/2015 5:13,NY
+24,negative,1,Late Flight,Delta,mariobonifacio,"@JetBlue Felt a bit like they were adding insult to injury, since we'll be in terminal 5 for seven hours until the next flight :/",2/20/2015 5:14,New York
+25,negative,1,Bad Flight,Delta,Ch1en1,@JetBlue Denver-Boston 2/10 flight 994  and Boston-Denver 2/15 flight 493 (both planes!) visible snack crumbs on seats on all upon boarding,2/20/2015 5:18,
+26,neutral,1,,Delta,BritishAirNews,@JetBlue's CEO battles to appease passengers and Wall Street - @TheVDT http://t.co/VD0tLomtwu,2/20/2015 5:21,UK
+27,neutral,0.6579,,Delta,dentistmel,@JetBlue Oh I will. #Disney bound. #workhard #playsoon,2/20/2015 5:27,"East Greenwich,RI"
+28,positive,1,,Delta,m1ss_DefJam,@JetBlue haha no need to apologize ðŸ˜ I'll be Flight Booking Problems sooner than Late Flightr. I love JetBlue,2/20/2015 5:37,Orlando - ÎœÎ£Î¥
+29,negative,1,Bad Flight,Delta,NYYash,@JetBlue Why was flight 669 forced to return to NY when there was a malfunction? Why not land in the countless air strips surrounding Chi?,2/20/2015 5:38,"New York City, NY"
+30,negative,1,Customer Service Issue,Delta,tlrichmond,@JetBlue   Phone agents can't see same flights I see online???  Can't change tickets even when I am paying. Very frustrating #jetblue,2/20/2015 5:43,
+31,negative,1,Customer Service Issue,Delta,TyrellJourdanA,@JetBlue I waited in line all that time to be told by a crewmember that there's no update until 9:30 #3HrDelay #disappointed,2/20/2015 5:50,The Eastside of the Far Side
+32,neutral,1,,Delta,NickMarvalous,@JetBlue no. Did not catch his name. I am sure Jason will know.,2/20/2015 6:07,
+33,negative,1,Late Flight,Delta,NYYash,"@JetBlue don't just cling on to the safety card. It safety was really an issue, then flight would have landed immediately. .",2/20/2015 6:11,"New York City, NY"
+34,negative,1,Can't Tell,Delta,NYYash,"@JetBlue Inconvenience is an understatement. More like torture. Clearly going down the wrong path, JetBlue.",2/20/2015 6:12,"New York City, NY"
+35,neutral,1,,Delta,lunchforone,@JetBlue are there any food places open at the JFK T5 24//?,2/20/2015 6:25,Germany 
+36,negative,0.6706,Can't Tell,Delta,stetsoninc,@JetBlue CCNDJP/ I can send a screen shot of the systems error if an email address is provided,2/20/2015 6:25,"New York, NY"
+37,positive,0.6667,,Delta,SMHillman,Then you better #HoldOn - #EverythingsGonnaBeAlright @jetblue 4 our #brandloveaffair https://t.co/64kN6GEEP8 #TrueBlueLove #travel #business,2/20/2015 6:30,"New York, NY"
+38,negative,1,Flight Attendant Complaints,Delta,mariobonifacio,"Lines may be extra long or security slow, but seems your employees too quick to blame customers who don't arrive 3-4 hours ahead @JetBlue",2/20/2015 6:33,New York
+39,negative,1,Can't Tell,Delta,NickMarvalous,"@JetBlue appreciate what you've done on your end to make this right, but still unhappy with initial incident. Will be calling.",2/20/2015 6:36,
+40,neutral,1,,Delta,JetBlueNews,@JetBlue's CEO battles to appease passengers and Wall Street - Waterbury Republican American http://t.co/Of7PFvQpOY,2/20/2015 6:36,USA
+41,positive,1,,Delta,AlanaMYzola,@JetBlue great flight! Great view! :-) http://t.co/Yxn00pnOav,2/20/2015 6:51,
+42,neutral,0.6316,,Delta,redsox223,@JetBlue I hope so. The plane does appear to be leaving a nearby terminal for our gate.,2/20/2015 6:54,
+43,neutral,0.65,,Delta,nokidhungry,"@jetblue We'd love to help Shanese Bryant-Melton, a hard-working grandmother from DC, go to Miami. It's on her bucket list. #flyitforward",2/20/2015 7:07,"Washington, DC"
+44,positive,0.7053,,Delta,mariobonifacio,"Thanks! Hope I don't look like a complainer, I've written of good experiences w/you in the past and am making do in terminal 5 :) @JetBlue",2/20/2015 7:28,New York
+45,negative,1,Late Flight,Delta,mariobonifacio,"I was a bit steamed in conjunction w/my new 7-hour wait at first, but having sat down and bought a bit of tea, I've settled some @JetBlue",2/20/2015 7:35,New York
+46,positive,1,,Delta,kbosspotter,@JetBlue thanks to the gent on the phone who fixed my BOS-MCO flight and the fee waiver! A320 now :) #flyfi ! I forget her name :(,2/20/2015 7:36,Logan International Airport
+47,neutral,0.6702,,Delta,JetBlueNews,@JetBlue Airways Hits New 52-Week High at $17.58 (JBLU) - sleekmoney http://t.co/zdKXn4kTOu,2/20/2015 7:36,USA
+48,negative,0.9278,Late Flight,Delta,techcatalyst,@JetBlue sorry to report we are stuck on Tarmac.. Being held so #notwheelsup,2/20/2015 7:39,"New York, USA"
+49,positive,1,,Delta,mariobonifacio,"That would be great! I never thought I'd be the sort who'd be into them, but it really makes the flying experience more bearable @JetBlue",2/20/2015 7:41,New York
+50,positive,1,,Delta,dpcahoon,@JetBlue you guys rock!! http://t.co/LA397zaoAY,2/20/2015 7:43,"Cambridge, MA"
+51,positive,0.6701,,Delta,SMHillman,"@JetBlue what can I say, I'm #LostinLove w/our #brandmance https://t.co/Bzwgp7aDVE #wemosaictogether #Mint #Love",2/20/2015 7:46,"New York, NY"
+52,positive,1,,Delta,ASSauLTxMasTER,"@JetBlue Thanks for offering this service, guys! http://t.co/xDjzkC34GB",2/20/2015 7:48,Orlando
+53,positive,1,,Delta,SMHillman,@JetBlue gr8 #Mint crew on #flight 123 to #LAX they're #Mintalicious #TrueBlueLove #ShelleyandMarcRock #travel #air,2/20/2015 7:49,"New York, NY"
+54,neutral,0.6806,,Delta,alexandrawalshh,@JetBlue thanks bae,2/20/2015 7:54,nyc 
+55,neutral,0.695,,US Airways,mrmorganmusic,"@USAirways @PDQuigley any progress? Good luck, Patrick!",2/22/2015 23:02,"Conway, AR"
+56,negative,1,Customer Service Issue,US Airways,rossj987,@USAirways hey guys!  Thanks for answering me and thanks for keeping me on hold for an hour on customer service at 12 pm PST!,2/22/2015 23:14,"Washington, D.C."
+57,negative,1,longlines,US Airways,rossj987,@USAirways And how do you only have 1 agent at PHX customer service desk when an hour ago the line was over 100 people long?,2/22/2015 23:21,"Washington, D.C."
+58,negative,0.65,Flight Booking Problems,US Airways,pronetowander,@USAirways cannot add my frequent flyer number on your website.  Can you help?,2/22/2015 23:22,
+59,negative,1,Customer Service Issue,US Airways,rossj987,@USAirways how do I get off my plane and wait over an hour and a half to speak to someone about reFlight Booking Problems?,2/22/2015 23:22,"Washington, D.C."
+60,negative,1,Customer Service Issue,US Airways,rossj987,"@USAirways Please don't trivialize me.  This is a joke, not a slow day or slow experience",2/22/2015 23:22,"Washington, D.C."
+61,negative,1,Customer Service Issue,US Airways,mcarroll_,@USAirways Finally got ahold of an Agent after another hour. Thanks for the follow up.  Recommend a call back feature.,2/22/2015 23:23,Washington D.C.
+62,negative,1,Can't Tell,US Airways,rossj987,@USAirways IS THIS RINGLING BROTHERS BARNUM AND BAILEY???  SHOULD I KEEP MY EYES PEELED FOR THE CLOWN CAR???,2/22/2015 23:23,"Washington, D.C."
+63,negative,1,Late Flight,US Airways,rossj987,@USAirways not to mention the fact that my flight was delayed BECAUSE YOUR COMPUTERS WERE DOWN,2/22/2015 23:23,"Washington, D.C."
+64,negative,1,Can't Tell,US Airways,rossj987,@USAirways I've flown 6 figured worth of miles in my lifetime.  This was my first and last ever flight on US Airways,2/22/2015 23:35,"Washington, D.C."
+65,negative,1,Lost Luggage,US Airways,Andyba25,@USAirways you guys have my luggage in San Jose and were supposed to deliver it to my hotel hours ago!! Please contact me.,2/22/2015 23:38,South
+66,negative,1,Customer Service Issue,US Airways,TarpsTwin,"@USAirways Storm or no storm, your customer service is a joke. 6 hour wait time to speak to someone? I will never fly your airline again.",2/22/2015 23:44,"Washington, DC"
+67,negative,1,Late Flight,US Airways,jakenemmasmom,@USAirways What a mess caused by the computer systems. Flight 719 in 3 hours Late Flight and now no gate for us. Est 26 min wait.,2/23/2015 0:10,
+68,positive,1,,US Airways,jakenemmasmom,@USAirways on a happy note our 719 crew is wonderful. Can't say enough great things about our pilot. He's doing all he can for us.,2/23/2015 0:12,
+69,negative,1,Customer Service Issue,US Airways,rmb1213,@USAirways three hour wait and counting waiting for reservations on the phone. Are you serious!?,2/23/2015 0:16,"Blackwood, NJ"
+70,neutral,0.6879,,US Airways,m_appel,"@USAirways 4469, thank you for asking.",2/23/2015 0:25,Washington DC 
+71,negative,1,Late Flight,US Airways,earthXplorer,@USAirways flight 435 is delayed so will miss connecting flight 457 can you please help with alternate? Thank you.,2/23/2015 0:33,"Miami, Fl. USA"
+72,negative,0.7009,Customer Service Issue,US Airways,TravelingProf,@USAirways How many agents do you have working to handle the thousands of calls?,2/23/2015 1:00,"Great Barrington, MA"
+73,negative,1,Can't Tell,US Airways,tessabusenius,@USAirways merging with American will negatively affect your quality and integrity. I will no longer fly with you because of it.,2/23/2015 2:15,Edmonton
+74,negative,1,Customer Service Issue,US Airways,SophAustenSneak,"@USAirways. wow, awful customer service.",2/23/2015 2:44,London
+75,negative,1,Lost Luggage,US Airways,BarrelAgedElle,@USAirways Flight gets in 30 minutes early and all goodwill gone when bags aren't here 45 minutes Late Flightr,2/23/2015 2:48,Boston
+76,negative,1,Customer Service Issue,US Airways,patrickcota5,"@USAirways as the employee responsible for social media content, yes u probably do care however the actions from last night say otherwise",2/23/2015 3:04,
+77,negative,1,Customer Service Issue,US Airways,patrickcota5,@USAirways your computer system went down ok that is understandable but the agents make it worse by not helping her or anyone else,2/23/2015 3:07,
+78,negative,1,Customer Service Issue,US Airways,patrickcota5,"@USAirways so she has to take a Late Flightr flight booked by her corporate (Disney) travel dept, as your agent offered little help",2/23/2015 3:12,
+79,negative,1,Customer Service Issue,US Airways,patrickcota5,@USAirways then she had to get her own hotel so ur agents did nothing to help and to top it off you sent her luggage on the wrong flight!!!,2/23/2015 3:15,
+80,negative,0.6679,Bad Flight,US Airways,Peakway3,"@USAirways Raleigh to Chicago and no #firstclass upgrade. Must be flying AA 'the screw USAir Elite, after we bailed them out' Airline",2/23/2015 3:31,North Carolina
+81,negative,1,Customer Service Issue,US Airways,notmakefriends,@USAirways forced sections 4 and 5 to check their carry on. would have packed differently to check my bag. Why even allow it? #pissed,2/23/2015 3:34,"Sherman Oaks, CA"
+82,negative,0.6699,Customer Service Issue,US Airways,earthXplorer,@USAirways hello??? Anyone there?,2/23/2015 3:41,"Miami, Fl. USA"
+83,negative,1,Customer Service Issue,United,discobiscuit63,@united thnx for quick reply but don't think you can assist. Our intl grp will be put to considerable inconvenience today.,2/24/2015 9:14,
+84,negative,1,Flight Booking Problems,Southwest,RealMaryAgnes,"@SouthwestAir Redeem-points packages magically gone by time we finally got through @ 10:01, felt like #baitandswitch",2/24/2015 9:15,
+85,neutral,1,,Southwest,JBadnastythug,@SouthwestAir done,2/24/2015 9:15,"Duluth, MN"
+86,negative,0.66,Flight Booking Problems,United,discobiscuit63,@united our travel booked thru United group dept. Okc ticket agent less than willing to help with our connection in LAX.,2/24/2015 9:15,
+87,negative,1,Flight Attendant Complaints,United,fuchsialipstick,"@united v upset with your disability  ""services"". When I told one of your employees I was carrying medical equipment she was very rude.",2/24/2015 9:15,
+88,negative,1,Bad Flight,Southwest,ceoDanya,@SouthwestAir need to learn how to treat people with respect and just a little dignity. #FAIL,2/24/2015 9:16,The next President of Libya
+89,positive,0.6421,,United,discobiscuit63,@united I flew United last month and the experience was AWESOME!,2/24/2015 9:16,
+90,negative,0.69,Can't Tell,Southwest,ceoDanya,"@SouthwestAir yes, very much so! I was looking forward to using your airlines for future flights but never again.",2/24/2015 9:17,The next President of Libya
+91,neutral,1,,United,kevintgarner,"@united Cancelled Flighted our flight, didn't rebook us on added flight, now have to drive from a Denver to KC....thanks!",2/24/2015 9:17,"Kansas City, MO"
+92,neutral,1,,United,fuchsialipstick,@united your announcement for pre boarding only addresses mobility. My disability requires me to travel with a lot of stuff. Do I preboard?,2/24/2015 9:17,
+93,negative,1,Late Flight,United,fuchsialipstick,"@united in addition, my first flight was delayed an hour and I'm arriving at my destination 8 hrs Late Flight.",2/24/2015 9:18,
+94,negative,1,Bad Flight,Southwest,Singal3,"@SouthwestAir horrible experience, passenger of size was 1/3 in my seat, offered $50 voucher for this by Christine C http://t.co/1xzrK66wVQ",2/24/2015 9:19,
+95,neutral,0.6542,,Southwest,Heavenlychc9,@SouthwestAir 3rd time flying southwest in two years. Have another trip back to mx on October.,2/24/2015 9:19,
+96,negative,1,Customer Service Issue,United,discobiscuit63,"@united once he found out we had a problem he avoided me like the plague. Was told ""we can't find a supervisor.""",2/24/2015 9:19,
+97,negative,1,Cancelled Flight,United,Peter_Abrahamse,@united ZCC82U Cancelled Flight flight 16h in advance??? Need connect flight reschedule so the link isn't helping. Help!? Gf waited months to see me.,2/24/2015 9:19,
+98,negative,1,Can't Tell,United,fuchsialipstick,@united I will not be flying you again,2/24/2015 9:19,
+99,neutral,1,,Southwest,tbranagh,@SouthwestAir I have a 5:30 flight out of Birmingham tomorrow night. Can I reschedule it for an earlier flight because of the expected snow?,2/24/2015 9:20,
+100,neutral,0.6806,,Southwest,MarlaDShepard,You have to follow me back so that I can DM @SouthwestAir,2/24/2015 9:20,"Raleigh, NC"
+101,negative,1,Late Flight,Southwest,Heavenlychc9,@SouthwestAir @SMiles1307 over two hours now.  Ugh we should all get vouchers this is inexcusable ESP after a pre flight check that was ok.,2/24/2015 9:21,
+102,negative,1,Customer Service Issue,United,Micaela4Mizzou,@united you guys need some serious training in customer service. Too many better options to put up with the way you guys handle ur mistakes,2/24/2015 9:22,
+103,negative,1,Can't Tell,Southwest,NaLeih,@SouthwestAir thanks for the apology. Unfortunately i have had one too many bad experiences and will no longer be flying with southwest.,2/24/2015 9:23,
+104,negative,0.651,Customer Service Issue,Southwest,JReneeX0X0,@SouthwestAir I was told by customer service that only customer relations can extend the expiration date of my unused travel funds.,2/24/2015 9:23,Around...
+105,negative,1,Customer Service Issue,United,johnkarpf,@united No. Denver said they don't handle baggage that made it to Colo. Springs.  They gave me an 800 number to call. No help there either.,2/24/2015 9:24,"Jacksonville, FL"
+106,negative,1,Bad Flight,Southwest,bmorechi,"@SouthwestAir had to let us off the plane bc the toilets done even work! There goes my family vacay to playa del Carmen, Mexico! #neveragain",2/24/2015 9:28,Chicago
+107,negative,1,Customer Service Issue,Southwest,Heavenlychc9,@SouthwestAir great now we are all de boarding perfectly plane is shot. Fml. Plans are screwed. Thanks for nothing @SouthwestAir,2/24/2015 9:29,
+108,neutral,0.6746,,Southwest,CTHUSTLEHARDER,@SouthwestAir Teyana Taylor Performing #MedusaFridays 2.27 Free Till11 http://t.co/qwFMoQ0dQl http://t.co/kbb0B5FxMK #TheMenOfBusiness,2/24/2015 9:29,"Arlington,Tx"
+109,negative,0.7024,Flight Booking Problems,Southwest,Marc_Hoffman,"@SouthwestAir Yo, I'm trying to make a change to a reservation but whenever I select the flight it says, ""Unable to price"". Please help!",2/24/2015 9:31,"Denver, CO"
+110,negative,1,Lost Luggage,United,Joestudent11,@united just flew to #TelAviv paid $100 from a third suitcase which didn't even make it on the plane! Besides for the impolite service...,2/24/2015 9:32,"Jerusalem, Israel"
+111,negative,1,Lost Luggage,United,johnkarpf,@United  My bag is still in Colo Springs. I am disabled and have to search an unfamiliar airport and look for my bag. Not a good outcome,2/24/2015 9:32,"Jacksonville, FL"
+112,negative,1,Customer Service Issue,United,CheerTymeDad,@united Shame that there's no flex to tickets transfer rules.  Even calling from Neurosurgery ICU isn't enough!,2/24/2015 9:32,
+113,negative,1,Customer Service Issue,Southwest,NecroticDoctor,@SouthwestAir My first call got dropped. Waited 15 mins for the second but ran out of time. Will try again Late Flightr. No way to do this online?,2/24/2015 9:33,Trapped in Baltimore.
+114,negative,0.6791,Damaged Luggage,United,Joestudent11,@united. ..I received on other flights. #united  truly breaks guitars. #unitedbreaksguitars #wantmymoneyback,2/24/2015 9:34,"Jerusalem, Israel"
+115,negative,0.6508,Flight Booking Problems,Southwest,cheesensausage,"@SouthwestAir trying to change my reservation, been on hold for 45 minutes, and can't do it online-was directed to call. Help?",2/24/2015 9:37,Eau Claire
+116,negative,1,Can't Tell,United,chrsmichaels,@united rude rude,2/24/2015 9:37,"Austin, TX"
+117,positive,1,,United,LukeGzus,@united Thank you for that. Am I able to claim any interim expenses or is the cost of the stuff up on me?,2/24/2015 9:39,
+118,negative,1,Late Flight,Southwest,Heavenlychc9,@SouthwestAir and now our arrival is delayed nearly 5hours. Yeah an entire day in an airport is not my idea of a stress less vacation #fail,2/24/2015 9:40,
+119,negative,1,Cancelled Flight,Southwest,Heavenlychc9,@SouthwestAir oh and now your company has caused us to lose an entire day of our vacation in Cancun. De Boarded waiting for another plane,2/24/2015 9:40,
+120,negative,0.6695,Can't Tell,United,logainne,@united When will email address/username sign-on be available? It's been a while.,2/24/2015 9:41,945XX to 111XX
+121,negative,1,Late Flight,United,cristobalwong,@united A measly $50 e-certificate is not how you appreciate loyal customers after they wait 3hrs on the tarmac during UA1116. #unacceptable,2/24/2015 9:42,San Francisco Bay Area
+122,negative,1,Flight Booking Problems,United,SEGrower,"@united No, I need you guys to not over book planes. It's not a concern, I'll just travel with someone else moving forward.",2/24/2015 9:44,"Colorado Springs, Colorado"
+123,negative,0.7,Flight Attendant Complaints,Southwest,SLCsRaddest,@SouthwestAir are people in an exit row still supposed to give their verbal approvals? I was never asked on the flight I'm on...,2/24/2015 9:46,
+124,neutral,0.6699,,Southwest,PiersonStone,"@SouthwestAir my flight at BWI is delayed and I will miss my flight in Denver, is there a way to find out if they will hold the plane?",2/24/2015 9:51,
+125,negative,1,Lost Luggage,Southwest,Heavenlychc9,@SouthwestAir its flight #218 of that matters to you all. Hell next we all won't get our luggage properly transferred #facepalm #smh,2/24/2015 9:54,
+126,negative,1,Customer Service Issue,Southwest,michaelossa,@SouthwestAir your phone service sucks,2/24/2015 9:54,"Newark, Ohio"
+127,negative,1,Late Flight,United,kevinfla3,@United well sitting on the ground 'on time' but waiting for a gate....again #tiredofthis,2/24/2015 9:54,
+128,positive,1,,Southwest,NinjaEpisode,@SouthwestAir I agree! RT @9NEWS: One airline is the fly-away favorite at DIA  #9NEWSBusiness http://t.co/o3WlaInImY,2/24/2015 9:55,"Denver, CO"
+129,positive,0.345,,Southwest,SMiles1307,@SouthwestAir @heavenlychc9 I'd at least enjoy a free cocktail...or two.,2/24/2015 9:57,
+130,neutral,0.6655,,Southwest,srsable7290,@SouthwestAir what is the status of the bag check area at FFL?,2/24/2015 9:58,
+131,negative,1,Lost Luggage,United,Nikki62878,@united then why have I not received my call back its been 3 days...it's an infant car seat how am I supposed to go anywhere with my child,2/24/2015 10:00,
+132,neutral,0.6589,,United,discobiscuit63,@united thanks again for your concern. I will contact customer care upon our return from Australia.,2/24/2015 10:00,
+133,negative,1,Damaged Luggage,Southwest,coromex97,@SouthwestAir I'm so upset that my luggage was damaged and the rude employee at the Laguardia airport didn't help!,2/24/2015 10:01,
+134,positive,0.673,,Southwest,kelsey_rae2011,@SouthwestAir tv stream means I get to spend my flight watching 1999 and 2011 Women's World Cup Finals. #throwback #bestflightever,2/24/2015 10:01,
+135,negative,1,Flight Booking Problems,Southwest,slobotski,@SouthwestAir went to purchase a flight that I began processing not even 4 minutes earlier and the points had gone up - any help?,2/24/2015 10:04,Midwest + Airplanes
+136,negative,1,Cancelled Flight,United,kevintgarner,@united A refund and flight vouchers or another flight on a different airline at your expense for today. 8 hour drive is very inconvenient,2/24/2015 10:05,"Kansas City, MO"
+137,positive,0.6793,,United,mattwbaker,"@united - thanks for your help...got me what I need, but its an issue with @_austrian . I guess I sit awhile longer.",2/24/2015 10:06,The Center of My Universe
+138,negative,1,Customer Service Issue,United,collegepathSS,@united @UCtraveladvisor - I would have loved to respond to your website until I saw the really long form. In business the new seats are bad,2/24/2015 10:06,California/Nevada
+139,positive,1,,Southwest,VolunteerLBK,@SouthwestAir round-trip tickets just arrived for our auction at the Post-Masters Invitational! Thanks Southwest! http://t.co/mRfBjtePef,2/24/2015 10:07,"Lubbock, TX"
+140,positive,1,,Southwest,catjubs,"@SouthwestAir  THANK YOU for your awesome flights. Sweetheart got screwed on @FlyFrontier, managed to scramble and get a SW plane today. !!!",2/24/2015 10:08,lurking in a coffeehouse
+141,positive,1,,Southwest,RebeccaKling,@SouthwestAir Thanks so much!,2/24/2015 10:08,Chicago
+142,neutral,0.663,,United,F_U_ng,"@united Kewl. Will also let them know the overhead bin over my row was ""Inop"". I love a good abbreve.",2/24/2015 10:09,Los Angeles
+143,neutral,1,,Southwest,MnMwillmott,@SouthwestAir I'm following now,2/24/2015 10:10,"woodstock, Ontario, Canada"
+144,negative,0.627,Customer Service Issue,Southwest,Heavenlychc9,@SouthwestAir have u seen any of the messages the past hour ?,2/24/2015 10:11,
+145,negative,1,Flight Attendant Complaints,United,fitztango,"@united iah to charlotte. Baggage claim rep latrice h. #customerservice non existent, Ignored customer then inappropriately touched customer",2/24/2015 10:11,"Houston, TX"
+146,neutral,1,,Southwest,JReneeX0X0,@SouthwestAir sent!,2/24/2015 10:15,Around...
+147,negative,1,Flight Attendant Complaints,United,OohLaLa09,"@united yes, we've been with the agents for the last 50 minutes. One of the agents have been very rude, but thankfully Ladan has been nice.",2/24/2015 10:16,DC
+148,negative,0.6931,Can't Tell,United,OohLaLa09,"@united also during the run I was instructed to do, I shattered my computer. http://t.co/oAflfr7WXB",2/24/2015 10:18,DC
+149,negative,0.6538,Customer Service Issue,United,megfalcone,"@united yes please! I am newly married and trying to update my last name on a preexisting international flight! It seems so easy, but...",2/24/2015 10:19,
+150,negative,1,Customer Service Issue,United,nydia376,@united How does United refuse to reissue a $400 lost voucher when their plane didn't take off due to mechanics? #badcustomerservice,2/24/2015 10:19,USA
+151,neutral,1,,Southwest,briman007,"@SouthwestAir sure, please follow me so I can do so?",2/24/2015 10:20,"Atlanta, GA"
+152,negative,1,Lost Luggage,Southwest,jparkermastin,@SouthwestAir  got my bags 35 hours Late Flightr and an offer of $50 to go pick them up. Taxi costs $65 one way. Spent $200 for the inconvenience.,2/24/2015 10:22,
+153,positive,0.6456,,Southwest,jparkermastin,@SouthwestAir  I USED to always fly Southwest.,2/24/2015 10:25,
+154,negative,0.6477,Lost Luggage,Southwest,crook_justin,@SouthwestAir they were moved to the 210pm flight #4649. Main concern now is luggage arriving with them. They were told that SW was having,2/24/2015 10:26,Fort Lauderdale
+155,negative,1,Bad Flight,Southwest,crook_justin,@SouthwestAir belt issues. Been a rough day for them. Worst part is traveling with 9 month old and having to wait outside in 85 degree,2/24/2015 10:27,Fort Lauderdale
+156,neutral,1,,Southwest,unknownfilmaker,"@SouthwestAir oh, is it only in Atlanta?",2/24/2015 10:27,EVERYWHERE
+157,positive,1,,Southwest,crook_justin,@SouthwestAir weather bc of system outage. Hopefully everything goes smoothly now. Thank you for follow up,2/24/2015 10:28,Fort Lauderdale
+158,negative,1,Late Flight,United,BocheBillions,"@united See? We were told repeatedly that the pilot was Late Flight and kept getting Late Flightr.  After we boarded, there was a defibrillator issue.",2/24/2015 10:30,
+159,negative,1,longlines,United,CoachJoette,@united why no preferred security line anymore. My TSA pre-check didn't pull on my @SilverAirways partner flight! #Platinum #spoiled,2/24/2015 10:30,Tampa
+160,neutral,0.6665,,United,CheerTymeDad,@united @CheerTymeDad Gee that's like almost caring about ppl more than $$.  Think I'm more int in having a trusted adult w/ daughter .,2/24/2015 10:33,
+161,negative,1,Customer Service Issue,United,nate2482,@united I sure did.   I had to drive a total of 3 hours to get my own bag.  I'd like to explain that debacle but no one wants to talk to me.,2/24/2015 10:35,"Parkersburg, WV"
+162,negative,1,Customer Service Issue,United,runwithmiles,@united I am trying to book awards for September and need flights on @aegeanairlines but they will not show even w/ many award seats availab,2/24/2015 10:36,
+163,neutral,1,,United,nydia376,@united I lost a voucher that I was given in Miami aeroport on jan 26. I did not use it.,2/24/2015 10:37,USA
+164,negative,1,Can't Tell,United,nydia376,@united I flew back w other company since United didnt have an earlier flight,2/24/2015 10:38,USA
+165,neutral,1,,United,andreaSanger,@united and what am I suppose to do with that number?,2/24/2015 10:39,
+166,neutral,1,,United,akobilarov,"@united Do I need to use a Chase United Club pass for my 8yr old son, or can he come in with me on my pass?",2/24/2015 10:44,South Carolina
+167,negative,1,Customer Service Issue,United,nate2482,"@United the internet is a great thing.  I am emailing executives in your company, maybe they will respond to me in a timely manner.",2/24/2015 10:47,"Parkersburg, WV"
+168,negative,1,Customer Service Issue,American,law_econ,@AmericanAir This doesn't address my issue. I am on hold for 30 min to speak with an agent.,2/24/2015 11:06,"Newport Beach, CA"
+169,positive,0.6639,,American,SusieBarre,@AmericanAir got another flight. Thanks you,2/24/2015 11:06,
+170,negative,1,Customer Service Issue,American,denismishin,"@AmericanAir submitted a case to AA customer relations two weeks ago, no word ever since! whats the point of even having CR?",2/24/2015 11:06,"Bellevue, WA"
+171,positive,1,,American,Mtts28,@AmericanAir This is exactly why ill be flying AA from @Dulles_Airport to Dallas! Only airline I trust!,2/24/2015 11:08,Virginia
+172,negative,1,Cancelled Flight,American,LancasterPattie,"@AmericanAir You are jumping the gun and Cancelled Flighting flights that could've made it before the snow. Now, more Cancelled Flightlations. It's ridiculous.",2/24/2015 11:15,
+173,negative,0.6703,Customer Service Issue,American,skgiffard,.@AmericanAir can you connect me to a person without having to wait 2+ hours on hold? I still haven't been able to resolve the problem.,2/24/2015 11:17,"Boston, MA"
+174,negative,1,Late Flight,American,JoBarredaV,@AmericanAir r u serious?? 304min #delay with #AmericanAirlines #AA2444 #ohio - #dallas missed my connecting flight http://t.co/DNMsblzumr,2/24/2015 11:17,Mexico City
+175,negative,1,Bad Flight,American,PBSamson,@AmericanAir thx for responding. I cant watch 2 mins of this film w/out it cutting in and out 4 prolonged prds of time. beyond frustrating,2/24/2015 11:19,"Los Angeles, CA"
+176,neutral,1,,American,FinEdChat,@AmericanAir I did,2/24/2015 11:19,"Cincinnati, Ohio"
+177,positive,0.7047,,American,JohnMHaaland,@AmericanAir thanks,2/24/2015 11:20,New York Tri-State
+178,neutral,1,,American,trentgillaspie,.@AmericanAir just disappointed with the Flight Booking Problems process and addâ€™l fees to sit together on a more crowded flight. Not impressed so far :-/.,2/24/2015 11:24,"Austin, but often Denver"
+179,negative,1,Flight Booking Problems,American,coquichick,@AmericanAir I purchased Main Cabin XT for f-1571AUS. Flight was Cancelled Flightled and I was rescheduled on 1600 with regular seats. Credit?,2/24/2015 11:26,Puerto Rico
+180,neutral,0.6529,,American,AesaGaming,@AmericanAir Do you have any sort of live chat feature? We're in the UK right now and that call would cost us alot. :(,2/24/2015 11:29,
+181,negative,1,Late Flight,American,ImBillNichols,@AmericanAir your planes made me miss 2 connections in 2 days. Thanks for nothing,2/24/2015 11:29,
+182,negative,1,Bad Flight,American,drhavoc,@americanair thanks for no fresh food on my cross country flight and for making my connection so close No time to eat. TPA-DFW-LAX,2/24/2015 11:31,Tampa Bay
+183,neutral,1,,American,Chandrafaythe,"@AmericanAir my flight got Cancelled Flightled from GRK to DFW, then to LEX for tomorrow and I need it rebooked.",2/24/2015 11:31,
+184,neutral,0.3474,,American,penyu1818,"@AmericanAir DM the locator code, thanks.",2/24/2015 11:32,
+185,positive,1,,American,jamucsb,@AmericanAir thank you!,2/24/2015 11:32,"Los Angeles, CA"
+186,negative,1,Customer Service Issue,American,TheOnlyJasonS,"@AmericanAir I sure hope you all can fix @USAirways. Good luck, their service sucks. #nexttimeiwillflysouthwest",2/24/2015 11:32,
+187,negative,1,Flight Booking Problems,American,HollyKinnamon,@AmericanAir 1hr 46 min. Cost of flight change $788. Was $188 2hrs ago b/f drop call. Cancelled Flighted flight. Asked 4 refund.,2/24/2015 11:36,"Washington, DC"
+188,negative,1,Flight Booking Problems,American,CathiKingWarren,@AmericanAir it's not just frustrating--it was PAID for! how do we get a refund?,2/24/2015 11:36,"San Antonio, Republic of Texas"
+189,neutral,0.6742,,American,gjeaviation,@AmericanAir 767 seconds from touchdown at Madrid airport in April 2013 #AvGeek http://t.co/1yWXRfn0Gr,2/24/2015 11:37,"Worcester, UK"
+190,negative,0.6449,longlines,American,TheTPVshow,"@AmericanAir I slept in the miami airport due to mechanical issues and was given 10,000 bonus miles to try and make it right. #slapintheface",2/24/2015 11:37,MN
+191,neutral,0.6767,,American,sammy575,"@AmericanAir is the new 9:45 time confirmed or it may get Cancelled Flightled? Traveling with kids, need to be certain. Thx",2/24/2015 11:37,New York
+192,negative,1,Flight Attendant Complaints,American,TheTPVshow,"@AmericanAir aa employees were rude and unwilling to help. 10,000 miles is a rotten cherry on top of a dog shit Sunday. #nocareforcustomers",2/24/2015 11:38,MN
+193,negative,1,Flight Booking Problems,American,barbararwill,"@AmericanAir no thanks.  As I said, being denied miles that expired one week ago was the last drop for me; plan to avoid AA as possible.",2/24/2015 11:40,Mexico City
+194,negative,0.667,Customer Service Issue,American,Bossman1908,"@AmericanAir sorry so Late Flight, responded to your DM.",2/24/2015 11:40,Liverpool
+195,positive,0.6604,,American,bharris77,"@AmericanAir Believe me, I understand. Flight #2955. Was originally booked for Sunday. Flight was Cancelled Flighted and rescheduled for today.",2/24/2015 11:40,"Frisco, Texas"
+196,negative,0.6547,Late Flight,American,LauraMolito,"@AmericanAir stranded for 24 hours in MIA, Patrick casimir has been the ONLY AA staff to apologize for the great inconvenience #unreal",2/24/2015 11:41,"New York, NY"
+197,neutral,0.6667,,American,LancasterPattie,@AmericanAir we've already made other arrangements ourselves.,2/24/2015 11:43,
+198,negative,0.6316,Bad Flight,American,ELLLORRAC,@AmericanAir thanks for getting back to me. But I will find other airlines in the future.,2/24/2015 11:43,
+199,negative,0.6846,Flight Booking Problems,American,SweeLoTmac,@AmericanAir why would I pay $200 to reactivate my points that are only useful for certain flights that aren't even worth $200?,2/24/2015 11:43,
+200,negative,1,Customer Service Issue,American,SweeLoTmac,@AmericanAir why would I even consider continuing your point program when I received no perks or continued bad customer service? #senseless,2/24/2015 11:44,

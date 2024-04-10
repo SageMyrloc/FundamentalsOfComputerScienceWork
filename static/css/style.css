@@ -1,0 +1,40 @@
+/* Add some basic styling */
+body {
+    font-family: courier, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+nav {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+nav a:hover {
+    color: #666;
+}
+
+input {
+  background: none;
+  font-family: courier;
+  font-size: 1.1em;
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 3px;
+}
