@@ -3,13 +3,18 @@ from flask import Flask, render_template
 # import package to read csv and iterator tools
 import csv
 import itertools
+import os
 
 app = Flask(__name__)
 # route = localhost
 
 def get_data():
+    # Get the directory of the current script
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    # get the directory for the data
+    csv_path = os.path.join(dir_path, "static", "data", "Kaggle_TwitterUSAirlineSentiment.csv")
     # open the data specifying the encoding used
-    with open("static/data/Kaggle_TwitterUSAirlineSentiment.csv", encoding="utf-8-sig") as csv_file:
+    with open(csv_path, encoding="utf-8-sig") as csv_file:
         # set data using the csv file and naming the delimiter
         data = csv.reader(csv_file, delimiter=',')
         # set first line to true so that the first line is avoided
